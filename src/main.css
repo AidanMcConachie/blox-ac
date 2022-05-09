@@ -1,0 +1,37 @@
+body{
+
+    background-color: black;
+}
+
+.text{
+    margin-top: 50px;
+    margin-left: auto;
+    text-align: center;
+    color: #ffffff;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.line{
+    margin-left: auto;
+    text-align: center;
+    color: #ffffff;
+}
+
+.lock{
+    color: #ffffff;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    width: 50px;
+    height: 50%;
+    display: block;
+}
+
+.lock:hover{
+    cursor: pointer;
+    
+}
+
